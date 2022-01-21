@@ -9,4 +9,4 @@ This Repository Contains best problems of the concept Sliding_window
 
 ## Licennse & copyright
 
-Licensed under [MIT License](LICENCE).
+Licensed under [MIT License](LICENSE).
