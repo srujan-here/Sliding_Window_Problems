@@ -5,7 +5,7 @@ This Repository Contains best problems of the concept Sliding_window
 
 ## Contributers
 
-- Putta Srujan [srujan-here](srujan-here).
+- Putta Srujan 
 
 ## Licennse & copyright
 
